@@ -1,22 +1,15 @@
 
 skillMetadata:
   sections:
-    - name: Options << Name of section
-      fields:
-        - name: internal_python_variable_name
-          type: text
-          label: Setting Friendly Display Name
-          value: ""
-          placeholder: demo prompt in the input box
-    - name: Login << Name of another section
+    - name: Telegram Bot Options
       fields:
         - type: label
-          label: Just a little bit of extra info for the user to understand following settings
-        - name: username
+          label: Telegram Bot Token
+        - name: bottoken
           type: text
-          label: Username
+          label: Telegram Bot Token
           value: ""
-        - name: password
-          type: password
-          label: Password
+        - name: adminchatid
+          type: text
+          label: Admin Chat ID
           value: ""
