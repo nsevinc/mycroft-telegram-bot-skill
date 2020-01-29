@@ -4,6 +4,9 @@ A skill to integration a telegram bot to mycroft
 ## About
 Allows you to communicate with mycroft using the telegram bot.
 
+#To do
+the readme file will be updated soon
+
 ## Examples
 * "Send last result to telegram"
 * "Send it to telegram"
